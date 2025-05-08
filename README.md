@@ -1,4 +1,4 @@
-Added DashBoard edit2
+Added DashBoard edit2 / lets do this demo
 Addressbook Tutorial
 ====================
 
